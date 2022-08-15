@@ -63,7 +63,7 @@ ftgbon='https://cdn.discordapp.com/attachments/1008375761729749043/1008416942996
 ftgjdg='https://tenor.com/view/jdg-joueur-du-grenier-ta-gueule-shut-up-gif-13793318'
 ftgpieds='https://tenor.com/view/lgbt-rainbow-ferme-ta-gueule-shut-up-pied-gif-14332717'
 
-gratuit='https://cdn.discordapp.com/attachments/1008375761729749043/1008415835922112713/unknown.png"
+gratuit='https://cdn.discordapp.com/attachments/1008375761729749043/1008415835922112713/unknown.png'
 hb='https://tenor.com/view/happy-birthday-bday-birthday-happy-bday-blow-kiss-gif-10682566'
 hd='https://cdn.discordapp.com/attachments/1008375761729749043/1008416408822095882/unknown.png'
 
