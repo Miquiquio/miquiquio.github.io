@@ -2,7 +2,7 @@
 """
 Created on Sun Aug 14 13:37:34 2022
 
-@author: Maxime
+@author: Miquiquio
 """
 
 import discord
@@ -543,4 +543,4 @@ async def on_message(message):
     if message.content=='!zombie':
         await message.channel.send(zombie)
 
-client.run(TOTO)
+client.run(str(TOTO))
