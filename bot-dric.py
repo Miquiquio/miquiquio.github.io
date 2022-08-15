@@ -543,6 +543,4 @@ async def on_message(message):
     if message.content=='!zombie':
         await message.channel.send(zombie)
 
-client.run('MTAwODM2OTM2Nzk5NTY2MjM1OQ.GiONyf.wwTglRhFiv2ili1p64MWdu9wiQen_Bwxt2Nk_c')
-
-
+client.run(TOTO)
